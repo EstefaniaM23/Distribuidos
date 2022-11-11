@@ -1,0 +1,2498 @@
+[
+	{
+		"torre": 1,
+		"apartamento": 1,
+		"pagos": [
+			{
+				"id": 20221008164105,
+				"fecha": "6/1/2022",
+				"descripcion": "Pago Mensualidad",
+				"valor": "83333"
+			}
+		]
+	},
+	{
+		"torre": 1,
+		"apartamento": 2,
+		"pagos": [
+		]
+	},
+	{
+		"torre": 1,
+		"apartamento": 3,
+		"pagos": [
+			{
+				"id": 20221003150006,
+				"fecha": "2/2/2022",
+				"descripcion": "Pago Mensualidad",
+				"valor": "83333"
+			}
+		]
+	},
+	{
+		"torre": 1,
+		"apartamento": 4,
+		"pagos": [
+		]
+	},
+	{
+		"torre": 1,
+		"apartamento": 5,
+		"pagos": [
+			{
+				"id": 20221002211713,
+				"fecha": "4/4/2022",
+				"descripcion": "Pago Mensualidad",
+				"valor": "83333"
+			},
+			{
+				"id": 20221003154909,
+				"fecha": "6/4/2022",
+				"descripcion": "Pago Mensualidad",
+				"valor": "83333"
+			}
+		]
+	},
+	{
+		"torre": 1,
+		"apartamento": 6,
+		"pagos": [
+		]
+	},
+	{
+		"torre": 1,
+		"apartamento": 7,
+		"pagos": [
+		]
+	},
+	{
+		"torre": 1,
+		"apartamento": 8,
+		"pagos": [
+		]
+	},
+	{
+		"torre": 1,
+		"apartamento": 9,
+		"pagos": [
+		]
+	},
+	{
+		"torre": 1,
+		"apartamento": 10,
+		"pagos": [
+		]
+	},
+	{
+		"torre": 1,
+		"apartamento": 11,
+		"pagos": [
+			{
+				"id": 20221008163921,
+				"fecha": "1/2/2022",
+				"descripcion": "Pago Mensualidad",
+				"valor": "83333"
+			}
+		]
+	},
+	{
+		"torre": 1,
+		"apartamento": 12,
+		"pagos": [
+			{
+				"id": 20221002205810,
+				"fecha": "4/10/2022",
+				"descripcion": "Pago Mensualidad",
+				"valor": "83333"
+			}
+		]
+	},
+	{
+		"torre": 1,
+		"apartamento": 13,
+		"pagos": [
+			{
+				"id": 20221008165248,
+				"fecha": "3/9/2022",
+				"descripcion": "Pago Mensualidad",
+				"valor": "83333"
+			},
+			{
+				"id": 20221002214759,
+				"fecha": "5/4/2022",
+				"descripcion": "Pago Mensualidad",
+				"valor": "83333"
+			}
+		]
+	},
+	{
+		"torre": 1,
+		"apartamento": 14,
+		"pagos": [
+		]
+	},
+	{
+		"torre": 1,
+		"apartamento": 15,
+		"pagos": [
+			{
+				"id": 20221008172220,
+				"fecha": "1/7/2022",
+				"descripcion": "Pago Mensualidad",
+				"valor": "83333"
+			}
+		]
+	},
+	{
+		"torre": 1,
+		"apartamento": 16,
+		"pagos": [
+		]
+	},
+	{
+		"torre": 1,
+		"apartamento": 17,
+		"pagos": [
+			{
+				"id": 20221003151811,
+				"fecha": "6/4/2022",
+				"descripcion": "Pago Mensualidad",
+				"valor": "83333"
+			}
+		]
+	},
+	{
+		"torre": 1,
+		"apartamento": 18,
+		"pagos": [
+			{
+				"id": 20221003144944,
+				"fecha": "5/1/2022",
+				"descripcion": "Pago Mensualidad",
+				"valor": "83333"
+			}
+		]
+	},
+	{
+		"torre": 1,
+		"apartamento": 19,
+		"pagos": [
+		]
+	},
+	{
+		"torre": 1,
+		"apartamento": 20,
+		"pagos": [
+			{
+				"id": 20221008182535,
+				"fecha": "7/9/2022",
+				"descripcion": "Pago Mensualidad",
+				"valor": "83333"
+			}
+		]
+	},
+	{
+		"torre": 1,
+		"apartamento": 21,
+		"pagos": [
+		]
+	},
+	{
+		"torre": 1,
+		"apartamento": 22,
+		"pagos": [
+		]
+	},
+	{
+		"torre": 1,
+		"apartamento": 23,
+		"pagos": [
+		]
+	},
+	{
+		"torre": 1,
+		"apartamento": 24,
+		"pagos": [
+		]
+	},
+	{
+		"torre": 1,
+		"apartamento": 25,
+		"pagos": [
+			{
+				"id": 20221003142802,
+				"fecha": "2/4/2022",
+				"descripcion": "Pago Mensualidad",
+				"valor": "83333"
+			}
+		]
+	},
+	{
+		"torre": 1,
+		"apartamento": 26,
+		"pagos": [
+		]
+	},
+	{
+		"torre": 1,
+		"apartamento": 27,
+		"pagos": [
+			{
+				"id": 20221002215758,
+				"fecha": "5/5/2022",
+				"descripcion": "Pago Mensualidad",
+				"valor": "83333"
+			}
+		]
+	},
+	{
+		"torre": 1,
+		"apartamento": 28,
+		"pagos": [
+			{
+				"id": 20221008181848,
+				"fecha": "1/4/2022",
+				"descripcion": "Pago Mensualidad",
+				"valor": "83333"
+			}
+		]
+	},
+	{
+		"torre": 1,
+		"apartamento": 29,
+		"pagos": [
+		]
+	},
+	{
+		"torre": 2,
+		"apartamento": 1,
+		"pagos": [
+			{
+				"id": 20221008163110,
+				"fecha": "6/6/2022",
+				"descripcion": "Pago Mensualidad",
+				"valor": "87500"
+			},
+			{
+				"id": 20221003142337,
+				"fecha": "5/8/2022",
+				"descripcion": "Pago Mensualidad",
+				"valor": "87500"
+			}
+		]
+	},
+	{
+		"torre": 2,
+		"apartamento": 2,
+		"pagos": [
+		]
+	},
+	{
+		"torre": 2,
+		"apartamento": 3,
+		"pagos": [
+		]
+	},
+	{
+		"torre": 2,
+		"apartamento": 4,
+		"pagos": [
+		]
+	},
+	{
+		"torre": 2,
+		"apartamento": 5,
+		"pagos": [
+			{
+				"id": 20221002212854,
+				"fecha": "6/9/2022",
+				"descripcion": "Pago Mensualidad",
+				"valor": "87500"
+			}
+		]
+	},
+	{
+		"torre": 2,
+		"apartamento": 6,
+		"pagos": [
+		]
+	},
+	{
+		"torre": 2,
+		"apartamento": 7,
+		"pagos": [
+			{
+				"id": 20221002205723,
+				"fecha": "3/1/2022",
+				"descripcion": "Pago Mensualidad",
+				"valor": "87500"
+			},
+			{
+				"id": 20221002211248,
+				"fecha": "3/3/2022",
+				"descripcion": "Pago Mensualidad",
+				"valor": "87500"
+			}
+		]
+	},
+	{
+		"torre": 2,
+		"apartamento": 8,
+		"pagos": [
+			{
+				"id": 20221008164650,
+				"fecha": "1/1/2022",
+				"descripcion": "Pago Mensualidad",
+				"valor": "87500"
+			},
+			{
+				"id": 20221008175752,
+				"fecha": "3/5/2022",
+				"descripcion": "Pago Mensualidad",
+				"valor": "87500"
+			}
+		]
+	},
+	{
+		"torre": 2,
+		"apartamento": 9,
+		"pagos": [
+		]
+	},
+	{
+		"torre": 2,
+		"apartamento": 10,
+		"pagos": [
+		]
+	},
+	{
+		"torre": 2,
+		"apartamento": 11,
+		"pagos": [
+		]
+	},
+	{
+		"torre": 2,
+		"apartamento": 12,
+		"pagos": [
+			{
+				"id": 20221002210028,
+				"fecha": "5/1/2022",
+				"descripcion": "Pago Mensualidad",
+				"valor": "87500"
+			}
+		]
+	},
+	{
+		"torre": 2,
+		"apartamento": 13,
+		"pagos": [
+		]
+	},
+	{
+		"torre": 2,
+		"apartamento": 14,
+		"pagos": [
+		]
+	},
+	{
+		"torre": 2,
+		"apartamento": 15,
+		"pagos": [
+		]
+	},
+	{
+		"torre": 2,
+		"apartamento": 16,
+		"pagos": [
+		]
+	},
+	{
+		"torre": 2,
+		"apartamento": 17,
+		"pagos": [
+			{
+				"id": 20221008181824,
+				"fecha": "5/4/2022",
+				"descripcion": "Pago Mensualidad",
+				"valor": "87500"
+			}
+		]
+	},
+	{
+		"torre": 2,
+		"apartamento": 18,
+		"pagos": [
+			{
+				"id": 20221002213434,
+				"fecha": "6/9/2022",
+				"descripcion": "Pago Mensualidad",
+				"valor": "87500"
+			}
+		]
+	},
+	{
+		"torre": 2,
+		"apartamento": 19,
+		"pagos": [
+		]
+	},
+	{
+		"torre": 2,
+		"apartamento": 20,
+		"pagos": [
+			{
+				"id": 20221008163937,
+				"fecha": "1/5/2022",
+				"descripcion": "Pago Mensualidad",
+				"valor": "87500"
+			}
+		]
+	},
+	{
+		"torre": 2,
+		"apartamento": 21,
+		"pagos": [
+			{
+				"id": 20221008165121,
+				"fecha": "6/2/2022",
+				"descripcion": "Pago Mensualidad",
+				"valor": "87500"
+			}
+		]
+	},
+	{
+		"torre": 2,
+		"apartamento": 22,
+		"pagos": [
+		]
+	},
+	{
+		"torre": 2,
+		"apartamento": 23,
+		"pagos": [
+			{
+				"id": 20221008163734,
+				"fecha": "5/3/2022",
+				"descripcion": "Pago Mensualidad",
+				"valor": "87500"
+			}
+		]
+	},
+	{
+		"torre": 2,
+		"apartamento": 24,
+		"pagos": [
+		]
+	},
+	{
+		"torre": 2,
+		"apartamento": 25,
+		"pagos": [
+		]
+	},
+	{
+		"torre": 2,
+		"apartamento": 26,
+		"pagos": [
+			{
+				"id": 20221003145419,
+				"fecha": "2/4/2022",
+				"descripcion": "Pago Mensualidad",
+				"valor": "87500"
+			}
+		]
+	},
+	{
+		"torre": 2,
+		"apartamento": 27,
+		"pagos": [
+		]
+	},
+	{
+		"torre": 2,
+		"apartamento": 28,
+		"pagos": [
+			{
+				"id": 20221008163617,
+				"fecha": "2/2/2022",
+				"descripcion": "Pago Mensualidad",
+				"valor": "87500"
+			}
+		]
+	},
+	{
+		"torre": 2,
+		"apartamento": 29,
+		"pagos": [
+			{
+				"id": 20221003145752,
+				"fecha": "5/4/2022",
+				"descripcion": "Pago Mensualidad",
+				"valor": "87500"
+			}
+		]
+	},
+	{
+		"torre": 3,
+		"apartamento": 1,
+		"pagos": [
+			{
+				"id": 20221002220000,
+				"fecha": "5/3/2022",
+				"descripcion": "Pago Mensualidad",
+				"valor": "91666"
+			}
+		]
+	},
+	{
+		"torre": 3,
+		"apartamento": 2,
+		"pagos": [
+		]
+	},
+	{
+		"torre": 3,
+		"apartamento": 3,
+		"pagos": [
+		]
+	},
+	{
+		"torre": 3,
+		"apartamento": 4,
+		"pagos": [
+			{
+				"id": 20221008182012,
+				"fecha": "5/5/2022",
+				"descripcion": "Pago Mensualidad",
+				"valor": "91666"
+			},
+			{
+				"id": 20221003150201,
+				"fecha": "6/6/2022",
+				"descripcion": "Pago Mensualidad",
+				"valor": "91666"
+			}
+		]
+	},
+	{
+		"torre": 3,
+		"apartamento": 5,
+		"pagos": [
+		]
+	},
+	{
+		"torre": 3,
+		"apartamento": 6,
+		"pagos": [
+			{
+				"id": 20221008173010,
+				"fecha": "4/6/2022",
+				"descripcion": "Pago Mensualidad",
+				"valor": "91666"
+			}
+		]
+	},
+	{
+		"torre": 3,
+		"apartamento": 7,
+		"pagos": [
+			{
+				"id": 20221008163405,
+				"fecha": "1/10/2022",
+				"descripcion": "Pago Mensualidad",
+				"valor": "91666"
+			},
+			{
+				"id": 20221008163442,
+				"fecha": "6/5/2022",
+				"descripcion": "Pago Mensualidad",
+				"valor": "91666"
+			}
+		]
+	},
+	{
+		"torre": 3,
+		"apartamento": 8,
+		"pagos": [
+		]
+	},
+	{
+		"torre": 3,
+		"apartamento": 9,
+		"pagos": [
+			{
+				"id": 20221008164745,
+				"fecha": "1/5/2022",
+				"descripcion": "Pago Mensualidad",
+				"valor": "91666"
+			}
+		]
+	},
+	{
+		"torre": 3,
+		"apartamento": 10,
+		"pagos": [
+			{
+				"id": 20221003150631,
+				"fecha": "2/3/2022",
+				"descripcion": "Pago Mensualidad",
+				"valor": "91666"
+			}
+		]
+	},
+	{
+		"torre": 3,
+		"apartamento": 11,
+		"pagos": [
+		]
+	},
+	{
+		"torre": 3,
+		"apartamento": 12,
+		"pagos": [
+			{
+				"id": 20221003144835,
+				"fecha": "5/10/2022",
+				"descripcion": "Pago Mensualidad",
+				"valor": "91666"
+			}
+		]
+	},
+	{
+		"torre": 3,
+		"apartamento": 13,
+		"pagos": [
+		]
+	},
+	{
+		"torre": 3,
+		"apartamento": 14,
+		"pagos": [
+		]
+	},
+	{
+		"torre": 3,
+		"apartamento": 15,
+		"pagos": [
+			{
+				"id": 20221002211947,
+				"fecha": "2/5/2022",
+				"descripcion": "Pago Mensualidad",
+				"valor": "91666"
+			}
+		]
+	},
+	{
+		"torre": 3,
+		"apartamento": 16,
+		"pagos": [
+		]
+	},
+	{
+		"torre": 3,
+		"apartamento": 17,
+		"pagos": [
+		]
+	},
+	{
+		"torre": 3,
+		"apartamento": 18,
+		"pagos": [
+		]
+	},
+	{
+		"torre": 3,
+		"apartamento": 19,
+		"pagos": [
+		]
+	},
+	{
+		"torre": 3,
+		"apartamento": 20,
+		"pagos": [
+			{
+				"id": 20221008163033,
+				"fecha": "2/2/2022",
+				"descripcion": "Pago Mensualidad",
+				"valor": "91666"
+			},
+			{
+				"id": 20221002210537,
+				"fecha": "1/9/2022",
+				"descripcion": "Pago Mensualidad",
+				"valor": "91666"
+			}
+		]
+	},
+	{
+		"torre": 3,
+		"apartamento": 21,
+		"pagos": [
+		]
+	},
+	{
+		"torre": 3,
+		"apartamento": 22,
+		"pagos": [
+		]
+	},
+	{
+		"torre": 3,
+		"apartamento": 23,
+		"pagos": [
+		]
+	},
+	{
+		"torre": 3,
+		"apartamento": 24,
+		"pagos": [
+		]
+	},
+	{
+		"torre": 3,
+		"apartamento": 25,
+		"pagos": [
+		]
+	},
+	{
+		"torre": 3,
+		"apartamento": 26,
+		"pagos": [
+		]
+	},
+	{
+		"torre": 3,
+		"apartamento": 27,
+		"pagos": [
+			{
+				"id": 20221003145658,
+				"fecha": "3/8/2022",
+				"descripcion": "Pago Mensualidad",
+				"valor": "91666"
+			}
+		]
+	},
+	{
+		"torre": 3,
+		"apartamento": 28,
+		"pagos": [
+			{
+				"id": 20221008164925,
+				"fecha": "5/6/2022",
+				"descripcion": "Pago Mensualidad",
+				"valor": "91666"
+			}
+		]
+	},
+	{
+		"torre": 3,
+		"apartamento": 29,
+		"pagos": [
+			{
+				"id": 20221002210257,
+				"fecha": "5/7/2022",
+				"descripcion": "Pago Mensualidad",
+				"valor": "91666"
+			}
+		]
+	},
+	{
+		"torre": 4,
+		"apartamento": 1,
+		"pagos": [
+		]
+	},
+	{
+		"torre": 4,
+		"apartamento": 2,
+		"pagos": [
+		]
+	},
+	{
+		"torre": 4,
+		"apartamento": 3,
+		"pagos": [
+			{
+				"id": 20221002215128,
+				"fecha": "5/10/2022",
+				"descripcion": "Pago Mensualidad",
+				"valor": "95833"
+			}
+		]
+	},
+	{
+		"torre": 4,
+		"apartamento": 4,
+		"pagos": [
+		]
+	},
+	{
+		"torre": 4,
+		"apartamento": 5,
+		"pagos": [
+		]
+	},
+	{
+		"torre": 4,
+		"apartamento": 6,
+		"pagos": [
+		]
+	},
+	{
+		"torre": 4,
+		"apartamento": 7,
+		"pagos": [
+			{
+				"id": 20221003150523,
+				"fecha": "2/1/2022",
+				"descripcion": "Pago Mensualidad",
+				"valor": "95833"
+			}
+		]
+	},
+	{
+		"torre": 4,
+		"apartamento": 8,
+		"pagos": [
+			{
+				"id": 20221008165559,
+				"fecha": "3/8/2022",
+				"descripcion": "Pago Mensualidad",
+				"valor": "95833"
+			}
+		]
+	},
+	{
+		"torre": 4,
+		"apartamento": 9,
+		"pagos": [
+			{
+				"id": 20221003155021,
+				"fecha": "1/5/2022",
+				"descripcion": "Pago Mensualidad",
+				"valor": "95833"
+			}
+		]
+	},
+	{
+		"torre": 4,
+		"apartamento": 10,
+		"pagos": [
+		]
+	},
+	{
+		"torre": 4,
+		"apartamento": 11,
+		"pagos": [
+		]
+	},
+	{
+		"torre": 4,
+		"apartamento": 12,
+		"pagos": [
+			{
+				"id": 20221008164207,
+				"fecha": "5/9/2022",
+				"descripcion": "Pago Mensualidad",
+				"valor": "95833"
+			}
+		]
+	},
+	{
+		"torre": 4,
+		"apartamento": 13,
+		"pagos": [
+		]
+	},
+	{
+		"torre": 4,
+		"apartamento": 14,
+		"pagos": [
+		]
+	},
+	{
+		"torre": 4,
+		"apartamento": 15,
+		"pagos": [
+		]
+	},
+	{
+		"torre": 4,
+		"apartamento": 16,
+		"pagos": [
+			{
+				"id": 20221008162539,
+				"fecha": "6/6/2022",
+				"descripcion": "Pago Mensualidad",
+				"valor": "95833"
+			}
+		]
+	},
+	{
+		"torre": 4,
+		"apartamento": 17,
+		"pagos": [
+			{
+				"id": 20221002212534,
+				"fecha": "5/2/2022",
+				"descripcion": "Pago Mensualidad",
+				"valor": "95833"
+			}
+		]
+	},
+	{
+		"torre": 4,
+		"apartamento": 18,
+		"pagos": [
+			{
+				"id": 20221008181523,
+				"fecha": "4/8/2022",
+				"descripcion": "Pago Mensualidad",
+				"valor": "95833"
+			},
+			{
+				"id": 20221008182353,
+				"fecha": "4/4/2022",
+				"descripcion": "Pago Mensualidad",
+				"valor": "95833"
+			}
+		]
+	},
+	{
+		"torre": 4,
+		"apartamento": 19,
+		"pagos": [
+			{
+				"id": 20221008164046,
+				"fecha": "3/8/2022",
+				"descripcion": "Pago Mensualidad",
+				"valor": "95833"
+			}
+		]
+	},
+	{
+		"torre": 4,
+		"apartamento": 20,
+		"pagos": [
+		]
+	},
+	{
+		"torre": 4,
+		"apartamento": 21,
+		"pagos": [
+		]
+	},
+	{
+		"torre": 4,
+		"apartamento": 22,
+		"pagos": [
+			{
+				"id": 20221008172003,
+				"fecha": "6/9/2022",
+				"descripcion": "Pago Mensualidad",
+				"valor": "95833"
+			},
+			{
+				"id": 20221008174154,
+				"fecha": "5/7/2022",
+				"descripcion": "Pago Mensualidad",
+				"valor": "95833"
+			},
+			{
+				"id": 20221002214941,
+				"fecha": "2/9/2022",
+				"descripcion": "Pago Mensualidad",
+				"valor": "95833"
+			}
+		]
+	},
+	{
+		"torre": 4,
+		"apartamento": 23,
+		"pagos": [
+			{
+				"id": 20221002214449,
+				"fecha": "6/1/2022",
+				"descripcion": "Pago Mensualidad",
+				"valor": "95833"
+			},
+			{
+				"id": 20221003145337,
+				"fecha": "5/10/2022",
+				"descripcion": "Pago Mensualidad",
+				"valor": "95833"
+			}
+		]
+	},
+	{
+		"torre": 4,
+		"apartamento": 24,
+		"pagos": [
+		]
+	},
+	{
+		"torre": 4,
+		"apartamento": 25,
+		"pagos": [
+		]
+	},
+	{
+		"torre": 4,
+		"apartamento": 26,
+		"pagos": [
+		]
+	},
+	{
+		"torre": 4,
+		"apartamento": 27,
+		"pagos": [
+		]
+	},
+	{
+		"torre": 4,
+		"apartamento": 28,
+		"pagos": [
+		]
+	},
+	{
+		"torre": 4,
+		"apartamento": 29,
+		"pagos": [
+		]
+	},
+	{
+		"torre": 5,
+		"apartamento": 1,
+		"pagos": [
+		]
+	},
+	{
+		"torre": 5,
+		"apartamento": 2,
+		"pagos": [
+			{
+				"id": 20221008164257,
+				"fecha": "3/8/2022",
+				"descripcion": "Pago Mensualidad",
+				"valor": "100000"
+			}
+		]
+	},
+	{
+		"torre": 5,
+		"apartamento": 3,
+		"pagos": [
+			{
+				"id": 20221003142448,
+				"fecha": "1/8/2022",
+				"descripcion": "Pago Mensualidad",
+				"valor": "100000"
+			}
+		]
+	},
+	{
+		"torre": 5,
+		"apartamento": 4,
+		"pagos": [
+		]
+	},
+	{
+		"torre": 5,
+		"apartamento": 5,
+		"pagos": [
+		]
+	},
+	{
+		"torre": 5,
+		"apartamento": 6,
+		"pagos": [
+			{
+				"id": 20221003155439,
+				"fecha": "6/7/2022",
+				"descripcion": "Pago Mensualidad",
+				"valor": "100000"
+			}
+		]
+	},
+	{
+		"torre": 5,
+		"apartamento": 7,
+		"pagos": [
+			{
+				"id": 20221002213659,
+				"fecha": "7/6/2022",
+				"descripcion": "Pago Mensualidad",
+				"valor": "100000"
+			}
+		]
+	},
+	{
+		"torre": 5,
+		"apartamento": 8,
+		"pagos": [
+		]
+	},
+	{
+		"torre": 5,
+		"apartamento": 9,
+		"pagos": [
+		]
+	},
+	{
+		"torre": 5,
+		"apartamento": 10,
+		"pagos": [
+		]
+	},
+	{
+		"torre": 5,
+		"apartamento": 11,
+		"pagos": [
+			{
+				"id": 20221008174634,
+				"fecha": "3/8/2022",
+				"descripcion": "Pago Mensualidad",
+				"valor": "100000"
+			},
+			{
+				"id": 20221003144715,
+				"fecha": "7/6/2022",
+				"descripcion": "Pago Mensualidad",
+				"valor": "100000"
+			}
+		]
+	},
+	{
+		"torre": 5,
+		"apartamento": 12,
+		"pagos": [
+		]
+	},
+	{
+		"torre": 5,
+		"apartamento": 13,
+		"pagos": [
+			{
+				"id": 20221008170813,
+				"fecha": "6/2/2022",
+				"descripcion": "Pago Mensualidad",
+				"valor": "100000"
+			}
+		]
+	},
+	{
+		"torre": 5,
+		"apartamento": 14,
+		"pagos": [
+		]
+	},
+	{
+		"torre": 5,
+		"apartamento": 15,
+		"pagos": [
+		]
+	},
+	{
+		"torre": 5,
+		"apartamento": 16,
+		"pagos": [
+		]
+	},
+	{
+		"torre": 5,
+		"apartamento": 17,
+		"pagos": [
+		]
+	},
+	{
+		"torre": 5,
+		"apartamento": 18,
+		"pagos": [
+		]
+	},
+	{
+		"torre": 5,
+		"apartamento": 19,
+		"pagos": [
+			{
+				"id": 20221002215426,
+				"fecha": "2/7/2022",
+				"descripcion": "Pago Mensualidad",
+				"valor": "100000"
+			}
+		]
+	},
+	{
+		"torre": 5,
+		"apartamento": 20,
+		"pagos": [
+			{
+				"id": 20221003155246,
+				"fecha": "4/5/2022",
+				"descripcion": "Pago Mensualidad",
+				"valor": "100000"
+			},
+			{
+				"id": 20221003142933,
+				"fecha": "4/6/2022",
+				"descripcion": "Pago Mensualidad",
+				"valor": "100000"
+			}
+		]
+	},
+	{
+		"torre": 5,
+		"apartamento": 21,
+		"pagos": [
+			{
+				"id": 20221008164142,
+				"fecha": "7/2/2022",
+				"descripcion": "Pago Mensualidad",
+				"valor": "100000"
+			},
+			{
+				"id": 20221003145239,
+				"fecha": "1/8/2022",
+				"descripcion": "Pago Mensualidad",
+				"valor": "100000"
+			}
+		]
+	},
+	{
+		"torre": 5,
+		"apartamento": 22,
+		"pagos": [
+		]
+	},
+	{
+		"torre": 5,
+		"apartamento": 23,
+		"pagos": [
+		]
+	},
+	{
+		"torre": 5,
+		"apartamento": 24,
+		"pagos": [
+			{
+				"id": 20221008171737,
+				"fecha": "1/4/2022",
+				"descripcion": "Pago Mensualidad",
+				"valor": "100000"
+			}
+		]
+	},
+	{
+		"torre": 5,
+		"apartamento": 25,
+		"pagos": [
+			{
+				"id": 20221003145519,
+				"fecha": "3/10/2022",
+				"descripcion": "Pago Mensualidad",
+				"valor": "100000"
+			}
+		]
+	},
+	{
+		"torre": 5,
+		"apartamento": 26,
+		"pagos": [
+		]
+	},
+	{
+		"torre": 5,
+		"apartamento": 27,
+		"pagos": [
+		]
+	},
+	{
+		"torre": 5,
+		"apartamento": 28,
+		"pagos": [
+		]
+	},
+	{
+		"torre": 5,
+		"apartamento": 29,
+		"pagos": [
+		]
+	},
+	{
+		"torre": 6,
+		"apartamento": 1,
+		"pagos": [
+		]
+	},
+	{
+		"torre": 6,
+		"apartamento": 2,
+		"pagos": [
+		]
+	},
+	{
+		"torre": 6,
+		"apartamento": 3,
+		"pagos": [
+		]
+	},
+	{
+		"torre": 6,
+		"apartamento": 4,
+		"pagos": [
+		]
+	},
+	{
+		"torre": 6,
+		"apartamento": 5,
+		"pagos": [
+		]
+	},
+	{
+		"torre": 6,
+		"apartamento": 6,
+		"pagos": [
+		]
+	},
+	{
+		"torre": 6,
+		"apartamento": 7,
+		"pagos": [
+		]
+	},
+	{
+		"torre": 6,
+		"apartamento": 8,
+		"pagos": [
+		]
+	},
+	{
+		"torre": 6,
+		"apartamento": 9,
+		"pagos": [
+		]
+	},
+	{
+		"torre": 6,
+		"apartamento": 10,
+		"pagos": [
+		]
+	},
+	{
+		"torre": 6,
+		"apartamento": 11,
+		"pagos": [
+		]
+	},
+	{
+		"torre": 6,
+		"apartamento": 12,
+		"pagos": [
+			{
+				"id": 20221003143315,
+				"fecha": "1/2/2022",
+				"descripcion": "Pago Mensualidad",
+				"valor": "104166"
+			}
+		]
+	},
+	{
+		"torre": 6,
+		"apartamento": 13,
+		"pagos": [
+			{
+				"id": 20221008165319,
+				"fecha": "6/7/2022",
+				"descripcion": "Pago Mensualidad",
+				"valor": "104166"
+			}
+		]
+	},
+	{
+		"torre": 6,
+		"apartamento": 14,
+		"pagos": [
+		]
+	},
+	{
+		"torre": 6,
+		"apartamento": 15,
+		"pagos": [
+			{
+				"id": 20221002211117,
+				"fecha": "3/4/2022",
+				"descripcion": "Pago Mensualidad",
+				"valor": "104166"
+			}
+		]
+	},
+	{
+		"torre": 6,
+		"apartamento": 16,
+		"pagos": [
+		]
+	},
+	{
+		"torre": 6,
+		"apartamento": 17,
+		"pagos": [
+		]
+	},
+	{
+		"torre": 6,
+		"apartamento": 18,
+		"pagos": [
+			{
+				"id": 20221003144437,
+				"fecha": "1/8/2022",
+				"descripcion": "Pago Mensualidad",
+				"valor": "104166"
+			}
+		]
+	},
+	{
+		"torre": 6,
+		"apartamento": 19,
+		"pagos": [
+			{
+				"id": 20221008175132,
+				"fecha": "1/7/2022",
+				"descripcion": "Pago Mensualidad",
+				"valor": "104166"
+			}
+		]
+	},
+	{
+		"torre": 6,
+		"apartamento": 20,
+		"pagos": [
+		]
+	},
+	{
+		"torre": 6,
+		"apartamento": 21,
+		"pagos": [
+		]
+	},
+	{
+		"torre": 6,
+		"apartamento": 22,
+		"pagos": [
+		]
+	},
+	{
+		"torre": 6,
+		"apartamento": 23,
+		"pagos": [
+			{
+				"id": 20221003143031,
+				"fecha": "1/1/2022",
+				"descripcion": "Pago Mensualidad",
+				"valor": "104166"
+			}
+		]
+	},
+	{
+		"torre": 6,
+		"apartamento": 24,
+		"pagos": [
+			{
+				"id": 20221008163554,
+				"fecha": "2/6/2022",
+				"descripcion": "Pago Mensualidad",
+				"valor": "104166"
+			}
+		]
+	},
+	{
+		"torre": 6,
+		"apartamento": 25,
+		"pagos": [
+		]
+	},
+	{
+		"torre": 6,
+		"apartamento": 26,
+		"pagos": [
+		]
+	},
+	{
+		"torre": 6,
+		"apartamento": 27,
+		"pagos": [
+			{
+				"id": 20221003154819,
+				"fecha": "7/5/2022",
+				"descripcion": "Pago Mensualidad",
+				"valor": "104166"
+			}
+		]
+	},
+	{
+		"torre": 6,
+		"apartamento": 28,
+		"pagos": [
+			{
+				"id": 20221008174237,
+				"fecha": "7/2/2022",
+				"descripcion": "Pago Mensualidad",
+				"valor": "104166"
+			}
+		]
+	},
+	{
+		"torre": 6,
+		"apartamento": 29,
+		"pagos": [
+			{
+				"id": 20221002211444,
+				"fecha": "3/8/2022",
+				"descripcion": "Pago Mensualidad",
+				"valor": "104166"
+			}
+		]
+	},
+	{
+		"torre": 7,
+		"apartamento": 1,
+		"pagos": [
+			{
+				"id": 20221008163324,
+				"fecha": "3/8/2022",
+				"descripcion": "Pago Mensualidad",
+				"valor": "108333"
+			}
+		]
+	},
+	{
+		"torre": 7,
+		"apartamento": 2,
+		"pagos": [
+		]
+	},
+	{
+		"torre": 7,
+		"apartamento": 3,
+		"pagos": [
+		]
+	},
+	{
+		"torre": 7,
+		"apartamento": 4,
+		"pagos": [
+		]
+	},
+	{
+		"torre": 7,
+		"apartamento": 5,
+		"pagos": [
+		]
+	},
+	{
+		"torre": 7,
+		"apartamento": 6,
+		"pagos": [
+		]
+	},
+	{
+		"torre": 7,
+		"apartamento": 7,
+		"pagos": [
+			{
+				"id": 20221002214123,
+				"fecha": "6/7/2022",
+				"descripcion": "Pago Mensualidad",
+				"valor": "108333"
+			}
+		]
+	},
+	{
+		"torre": 7,
+		"apartamento": 8,
+		"pagos": [
+		]
+	},
+	{
+		"torre": 7,
+		"apartamento": 9,
+		"pagos": [
+		]
+	},
+	{
+		"torre": 7,
+		"apartamento": 10,
+		"pagos": [
+		]
+	},
+	{
+		"torre": 7,
+		"apartamento": 11,
+		"pagos": [
+		]
+	},
+	{
+		"torre": 7,
+		"apartamento": 12,
+		"pagos": [
+			{
+				"id": 20221002212704,
+				"fecha": "1/7/2022",
+				"descripcion": "Pago Mensualidad",
+				"valor": "108333"
+			}
+		]
+	},
+	{
+		"torre": 7,
+		"apartamento": 13,
+		"pagos": [
+			{
+				"id": 20221002205853,
+				"fecha": "5/4/2022",
+				"descripcion": "Pago Mensualidad",
+				"valor": "108333"
+			},
+			{
+				"id": 20221003145136,
+				"fecha": "6/7/2022",
+				"descripcion": "Pago Mensualidad",
+				"valor": "108333"
+			}
+		]
+	},
+	{
+		"torre": 7,
+		"apartamento": 14,
+		"pagos": [
+		]
+	},
+	{
+		"torre": 7,
+		"apartamento": 15,
+		"pagos": [
+		]
+	},
+	{
+		"torre": 7,
+		"apartamento": 16,
+		"pagos": [
+		]
+	},
+	{
+		"torre": 7,
+		"apartamento": 17,
+		"pagos": [
+		]
+	},
+	{
+		"torre": 7,
+		"apartamento": 18,
+		"pagos": [
+		]
+	},
+	{
+		"torre": 7,
+		"apartamento": 19,
+		"pagos": [
+			{
+				"id": 20221002213949,
+				"fecha": "4/8/2022",
+				"descripcion": "Pago Mensualidad",
+				"valor": "108333"
+			}
+		]
+	},
+	{
+		"torre": 7,
+		"apartamento": 20,
+		"pagos": [
+		]
+	},
+	{
+		"torre": 7,
+		"apartamento": 21,
+		"pagos": [
+		]
+	},
+	{
+		"torre": 7,
+		"apartamento": 22,
+		"pagos": [
+		]
+	},
+	{
+		"torre": 7,
+		"apartamento": 23,
+		"pagos": [
+			{
+				"id": 20221002213143,
+				"fecha": "6/9/2022",
+				"descripcion": "Pago Mensualidad",
+				"valor": "108333"
+			}
+		]
+	},
+	{
+		"torre": 7,
+		"apartamento": 24,
+		"pagos": [
+		]
+	},
+	{
+		"torre": 7,
+		"apartamento": 25,
+		"pagos": [
+		]
+	},
+	{
+		"torre": 7,
+		"apartamento": 26,
+		"pagos": [
+			{
+				"id": 20221003154600,
+				"fecha": "3/1/2022",
+				"descripcion": "Pago Mensualidad",
+				"valor": "108333"
+			}
+		]
+	},
+	{
+		"torre": 7,
+		"apartamento": 27,
+		"pagos": [
+			{
+				"id": 20221008182305,
+				"fecha": "3/2/2022",
+				"descripcion": "Pago Mensualidad",
+				"valor": "108333"
+			}
+		]
+	},
+	{
+		"torre": 7,
+		"apartamento": 28,
+		"pagos": [
+			{
+				"id": 20221002214344,
+				"fecha": "4/3/2022",
+				"descripcion": "Pago Mensualidad",
+				"valor": "108333"
+			}
+		]
+	},
+	{
+		"torre": 7,
+		"apartamento": 29,
+		"pagos": [
+		]
+	},
+	{
+		"torre": 8,
+		"apartamento": 1,
+		"pagos": [
+		]
+	},
+	{
+		"torre": 8,
+		"apartamento": 2,
+		"pagos": [
+			{
+				"id": 20221008173600,
+				"fecha": "6/6/2022",
+				"descripcion": "Pago Mensualidad",
+				"valor": "112500"
+			}
+		]
+	},
+	{
+		"torre": 8,
+		"apartamento": 3,
+		"pagos": [
+			{
+				"id": 20221008164759,
+				"fecha": "3/3/2022",
+				"descripcion": "Pago Mensualidad",
+				"valor": "112500"
+			}
+		]
+	},
+	{
+		"torre": 8,
+		"apartamento": 4,
+		"pagos": [
+			{
+				"id": 20221008162643,
+				"fecha": "1/7/2022",
+				"descripcion": "Pago Mensualidad",
+				"valor": "112500"
+			}
+		]
+	},
+	{
+		"torre": 8,
+		"apartamento": 5,
+		"pagos": [
+			{
+				"id": 20221002211527,
+				"fecha": "1/8/2022",
+				"descripcion": "Pago Mensualidad",
+				"valor": "112500"
+			}
+		]
+	},
+	{
+		"torre": 8,
+		"apartamento": 6,
+		"pagos": [
+		]
+	},
+	{
+		"torre": 8,
+		"apartamento": 7,
+		"pagos": [
+			{
+				"id": 20221008170647,
+				"fecha": "4/8/2022",
+				"descripcion": "Pago Mensualidad",
+				"valor": "112500"
+			}
+		]
+	},
+	{
+		"torre": 8,
+		"apartamento": 8,
+		"pagos": [
+		]
+	},
+	{
+		"torre": 8,
+		"apartamento": 9,
+		"pagos": [
+		]
+	},
+	{
+		"torre": 8,
+		"apartamento": 10,
+		"pagos": [
+		]
+	},
+	{
+		"torre": 8,
+		"apartamento": 11,
+		"pagos": [
+		]
+	},
+	{
+		"torre": 8,
+		"apartamento": 12,
+		"pagos": [
+		]
+	},
+	{
+		"torre": 8,
+		"apartamento": 13,
+		"pagos": [
+		]
+	},
+	{
+		"torre": 8,
+		"apartamento": 14,
+		"pagos": [
+			{
+				"id": 20221002215556,
+				"fecha": "1/3/2022",
+				"descripcion": "Pago Mensualidad",
+				"valor": "112500"
+			}
+		]
+	},
+	{
+		"torre": 8,
+		"apartamento": 15,
+		"pagos": [
+			{
+				"id": 20221008165823,
+				"fecha": "7/9/2022",
+				"descripcion": "Pago Mensualidad",
+				"valor": "112500"
+			},
+			{
+				"id": 20221003142713,
+				"fecha": "6/9/2022",
+				"descripcion": "Pago Mensualidad",
+				"valor": "112500"
+			}
+		]
+	},
+	{
+		"torre": 8,
+		"apartamento": 16,
+		"pagos": [
+		]
+	},
+	{
+		"torre": 8,
+		"apartamento": 17,
+		"pagos": [
+		]
+	},
+	{
+		"torre": 8,
+		"apartamento": 18,
+		"pagos": [
+		]
+	},
+	{
+		"torre": 8,
+		"apartamento": 19,
+		"pagos": [
+		]
+	},
+	{
+		"torre": 8,
+		"apartamento": 20,
+		"pagos": [
+		]
+	},
+	{
+		"torre": 8,
+		"apartamento": 21,
+		"pagos": [
+			{
+				"id": 20221008181443,
+				"fecha": "7/5/2022",
+				"descripcion": "Pago Mensualidad",
+				"valor": "112500"
+			}
+		]
+	},
+	{
+		"torre": 8,
+		"apartamento": 22,
+		"pagos": [
+			{
+				"id": 20221008175207,
+				"fecha": "4/4/2022",
+				"descripcion": "Pago Mensualidad",
+				"valor": "112500"
+			}
+		]
+	},
+	{
+		"torre": 8,
+		"apartamento": 23,
+		"pagos": [
+		]
+	},
+	{
+		"torre": 8,
+		"apartamento": 24,
+		"pagos": [
+		]
+	},
+	{
+		"torre": 8,
+		"apartamento": 25,
+		"pagos": [
+			{
+				"id": 20221008181627,
+				"fecha": "5/9/2022",
+				"descripcion": "Pago Mensualidad",
+				"valor": "112500"
+			},
+			{
+				"id": 20221003143421,
+				"fecha": "3/9/2022",
+				"descripcion": "Pago Mensualidad",
+				"valor": "112500"
+			},
+			{
+				"id": 20221003150035,
+				"fecha": "4/4/2022",
+				"descripcion": "Pago Mensualidad",
+				"valor": "112500"
+			}
+		]
+	},
+	{
+		"torre": 8,
+		"apartamento": 26,
+		"pagos": [
+		]
+	},
+	{
+		"torre": 8,
+		"apartamento": 27,
+		"pagos": [
+		]
+	},
+	{
+		"torre": 8,
+		"apartamento": 28,
+		"pagos": [
+		]
+	},
+	{
+		"torre": 8,
+		"apartamento": 29,
+		"pagos": [
+			{
+				"id": 20221002214642,
+				"fecha": "2/7/2022",
+				"descripcion": "Pago Mensualidad",
+				"valor": "112500"
+			}
+		]
+	},
+	{
+		"torre": 9,
+		"apartamento": 1,
+		"pagos": [
+			{
+				"id": 20221002212349,
+				"fecha": "6/3/2022",
+				"descripcion": "Pago Mensualidad",
+				"valor": "116666"
+			},
+			{
+				"id": 20221003143527,
+				"fecha": "2/8/2022",
+				"descripcion": "Pago Mensualidad",
+				"valor": "116666"
+			}
+		]
+	},
+	{
+		"torre": 9,
+		"apartamento": 2,
+		"pagos": [
+		]
+	},
+	{
+		"torre": 9,
+		"apartamento": 3,
+		"pagos": [
+		]
+	},
+	{
+		"torre": 9,
+		"apartamento": 4,
+		"pagos": [
+		]
+	},
+	{
+		"torre": 9,
+		"apartamento": 5,
+		"pagos": [
+		]
+	},
+	{
+		"torre": 9,
+		"apartamento": 6,
+		"pagos": [
+		]
+	},
+	{
+		"torre": 9,
+		"apartamento": 7,
+		"pagos": [
+		]
+	},
+	{
+		"torre": 9,
+		"apartamento": 8,
+		"pagos": [
+			{
+				"id": 20221003142633,
+				"fecha": "2/1/2022",
+				"descripcion": "Pago Mensualidad",
+				"valor": "116666"
+			}
+		]
+	},
+	{
+		"torre": 9,
+		"apartamento": 9,
+		"pagos": [
+		]
+	},
+	{
+		"torre": 9,
+		"apartamento": 10,
+		"pagos": [
+		]
+	},
+	{
+		"torre": 9,
+		"apartamento": 11,
+		"pagos": [
+		]
+	},
+	{
+		"torre": 9,
+		"apartamento": 12,
+		"pagos": [
+		]
+	},
+	{
+		"torre": 9,
+		"apartamento": 13,
+		"pagos": [
+		]
+	},
+	{
+		"torre": 9,
+		"apartamento": 14,
+		"pagos": [
+		]
+	},
+	{
+		"torre": 9,
+		"apartamento": 15,
+		"pagos": [
+			{
+				"id": 20221003144240,
+				"fecha": "7/2/2022",
+				"descripcion": "Pago Mensualidad",
+				"valor": "116666"
+			}
+		]
+	},
+	{
+		"torre": 9,
+		"apartamento": 16,
+		"pagos": [
+		]
+	},
+	{
+		"torre": 9,
+		"apartamento": 17,
+		"pagos": [
+		]
+	},
+	{
+		"torre": 9,
+		"apartamento": 18,
+		"pagos": [
+		]
+	},
+	{
+		"torre": 9,
+		"apartamento": 19,
+		"pagos": [
+			{
+				"id": 20221002215246,
+				"fecha": "4/9/2022",
+				"descripcion": "Pago Mensualidad",
+				"valor": "116666"
+			}
+		]
+	},
+	{
+		"torre": 9,
+		"apartamento": 20,
+		"pagos": [
+		]
+	},
+	{
+		"torre": 9,
+		"apartamento": 21,
+		"pagos": [
+		]
+	},
+	{
+		"torre": 9,
+		"apartamento": 22,
+		"pagos": [
+			{
+				"id": 20221008162451,
+				"fecha": "3/2/2022",
+				"descripcion": "Pago Mensualidad",
+				"valor": "116666"
+			}
+		]
+	},
+	{
+		"torre": 9,
+		"apartamento": 23,
+		"pagos": [
+		]
+	},
+	{
+		"torre": 9,
+		"apartamento": 24,
+		"pagos": [
+		]
+	},
+	{
+		"torre": 9,
+		"apartamento": 25,
+		"pagos": [
+		]
+	},
+	{
+		"torre": 9,
+		"apartamento": 26,
+		"pagos": [
+			{
+				"id": 20221003143754,
+				"fecha": "3/5/2022",
+				"descripcion": "Pago Mensualidad",
+				"valor": "116666"
+			}
+		]
+	},
+	{
+		"torre": 9,
+		"apartamento": 27,
+		"pagos": [
+			{
+				"id": 20221008170455,
+				"fecha": "7/6/2022",
+				"descripcion": "Pago Mensualidad",
+				"valor": "116666"
+			},
+			{
+				"id": 20221008172741,
+				"fecha": "2/8/2022",
+				"descripcion": "Pago Mensualidad",
+				"valor": "116666"
+			}
+		]
+	},
+	{
+		"torre": 9,
+		"apartamento": 28,
+		"pagos": [
+			{
+				"id": 20221003145211,
+				"fecha": "7/4/2022",
+				"descripcion": "Pago Mensualidad",
+				"valor": "116666"
+			}
+		]
+	},
+	{
+		"torre": 9,
+		"apartamento": 29,
+		"pagos": [
+		]
+	},
+	{
+		"torre": 10,
+		"apartamento": 1,
+		"pagos": [
+		]
+	},
+	{
+		"torre": 10,
+		"apartamento": 2,
+		"pagos": [
+		]
+	},
+	{
+		"torre": 10,
+		"apartamento": 3,
+		"pagos": [
+		]
+	},
+	{
+		"torre": 10,
+		"apartamento": 4,
+		"pagos": [
+		]
+	},
+	{
+		"torre": 10,
+		"apartamento": 5,
+		"pagos": [
+		]
+	},
+	{
+		"torre": 10,
+		"apartamento": 6,
+		"pagos": [
+			{
+				"id": 20221008163804,
+				"fecha": "3/3/2022",
+				"descripcion": "Pago Mensualidad",
+				"valor": "120833"
+			}
+		]
+	},
+	{
+		"torre": 10,
+		"apartamento": 7,
+		"pagos": [
+			{
+				"id": 20221003154734,
+				"fecha": "7/7/2022",
+				"descripcion": "Pago Mensualidad",
+				"valor": "120833"
+			}
+		]
+	},
+	{
+		"torre": 10,
+		"apartamento": 8,
+		"pagos": [
+		]
+	},
+	{
+		"torre": 10,
+		"apartamento": 9,
+		"pagos": [
+		]
+	},
+	{
+		"torre": 10,
+		"apartamento": 10,
+		"pagos": [
+		]
+	},
+	{
+		"torre": 10,
+		"apartamento": 11,
+		"pagos": [
+		]
+	},
+	{
+		"torre": 10,
+		"apartamento": 12,
+		"pagos": [
+		]
+	},
+	{
+		"torre": 10,
+		"apartamento": 13,
+		"pagos": [
+			{
+				"id": 20221008171143,
+				"fecha": "2/2/2022",
+				"descripcion": "Pago Mensualidad",
+				"valor": "120833"
+			}
+		]
+	},
+	{
+		"torre": 10,
+		"apartamento": 14,
+		"pagos": [
+		]
+	},
+	{
+		"torre": 10,
+		"apartamento": 15,
+		"pagos": [
+		]
+	},
+	{
+		"torre": 10,
+		"apartamento": 16,
+		"pagos": [
+			{
+				"id": 20221008163506,
+				"fecha": "5/9/2022",
+				"descripcion": "Pago Mensualidad",
+				"valor": "120833"
+			}
+		]
+	},
+	{
+		"torre": 10,
+		"apartamento": 17,
+		"pagos": [
+		]
+	},
+	{
+		"torre": 10,
+		"apartamento": 18,
+		"pagos": [
+		]
+	},
+	{
+		"torre": 10,
+		"apartamento": 19,
+		"pagos": [
+		]
+	},
+	{
+		"torre": 10,
+		"apartamento": 20,
+		"pagos": [
+		]
+	},
+	{
+		"torre": 10,
+		"apartamento": 21,
+		"pagos": [
+		]
+	},
+	{
+		"torre": 10,
+		"apartamento": 22,
+		"pagos": [
+			{
+				"id": 20221003144051,
+				"fecha": "7/4/2022",
+				"descripcion": "Pago Mensualidad",
+				"valor": "120833"
+			}
+		]
+	},
+	{
+		"torre": 10,
+		"apartamento": 23,
+		"pagos": [
+			{
+				"id": 20221002212139,
+				"fecha": "2/2/2022",
+				"descripcion": "Pago Mensualidad",
+				"valor": "120833"
+			}
+		]
+	},
+	{
+		"torre": 10,
+		"apartamento": 24,
+		"pagos": [
+			{
+				"id": 20221002210821,
+				"fecha": "6/3/2022",
+				"descripcion": "Pago Mensualidad",
+				"valor": "120833"
+			}
+		]
+	},
+	{
+		"torre": 10,
+		"apartamento": 25,
+		"pagos": [
+		]
+	},
+	{
+		"torre": 10,
+		"apartamento": 26,
+		"pagos": [
+		]
+	},
+	{
+		"torre": 10,
+		"apartamento": 27,
+		"pagos": [
+		]
+	},
+	{
+		"torre": 10,
+		"apartamento": 28,
+		"pagos": [
+		]
+	},
+	{
+		"torre": 10,
+		"apartamento": 29,
+		"pagos": [
+		]
+	}
+]
