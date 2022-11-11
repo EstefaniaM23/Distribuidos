@@ -1,0 +1,27 @@
+Los programas que desarrollamos estan en el lenguaje javascript
+el programa de Sistema Conjunto:contiene la gestion de usuarios, realializacion de los pagos , el registro,
+la muestra de la respectiva factura.
+Esta informacion esta almacenada en una base de datos creada en mysql y que esta en la plataforma heroku y se enlaza
+al aplicativo a travez de una ruta especifica.
+Las pruebas de estos servicios estan siendo desarrolladas en postman 
+Esta plataforma nos permite validar el buen funcionamiento del codigo y de los modulos propuestos.
+Entre esos tenemos creados 10 torres con 10 apartamentos creadas estaticamente y de estas torres
+y apartamentos es que se realizan las diferentes acciones, estas se identifican
+a través de su id único. 
+En la estructura establecida cada apartamento tiene que realizar 12 pagos y estos 
+van disminuyendo al ejecutar el pago especifico del apto seleccionado.
+
+El sistemaConjuntos nos permite realizar los pagos y con un tunel en ngrok
+el otro dispositivo se puede observar los pagos realizados, los registros, y los diferentes modulos 
+que se ejecutan en este servidor. Para ejecuntar el sistema conjunto se debe usar el comando 
+						-- npm run dev -- 
+
+con este comando, corre el programa en el puerto 3001, y este puerto se pasa a postman con la direccion 
+						-- 127.0.0.1:3001 --
+
+y empezar a interactuar con el programa de pagos, que se llama Sistema pagos conjuntos, donde este 
+se realizan los pagos del conjunto, donde se generan las facturas y los pagos. este programa se encarga de la simulacion 
+de los pagos. Para correr este programa se usa el comando 
+						-- npm run start --
+
+y tambien se correo en postman , para verificar el tiempo que gasta el pago con la misma direccion del sistema conjunto. 
